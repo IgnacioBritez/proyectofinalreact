@@ -1,0 +1,38 @@
+.ResponsiveNavigation {
+	display: flex;
+	width: 100%;
+	background: rgb(0, 0, 0);
+	font-family: "Roboto", "Helvetica", "Arial", "sans-serif";
+    font-Size: 0.875rem;
+	background: radial-gradient(
+		circle,
+		rgb(0, 0, 0) 77%,
+		rgb(0, 0, 0) 100%
+	);
+	
+}
+
+.ResponsiveNavigationContainer {
+	display: flex;
+	width: 100%;
+	justify-content: space-around;
+	font-family: "Roboto", "Helvetica", "Arial", "sans-serif";
+    font-Size: 0.875rem;
+}
+
+.fa-cart-shopping {
+	margin-right: 5px;
+}
+
+.LinkButton {
+    text-decoration: none;
+    color: white;
+    font-size: 12;
+    font-weight: bold;
+}
+.PurchaseButton {
+    color: grey;
+    font-Size:12;
+    font-Weight: bold;
+}
+
