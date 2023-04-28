@@ -33,6 +33,7 @@ const CardList = () => {
     }, 1000);
   }, []);
 
+  
   return (
     <>
       {isLoading ? (
