@@ -14,13 +14,13 @@ const styles = {
     textDecoration: "none",
     color: "white",
     fontSize: "15px",
-    fontWeight: "bold",
+    fontWeight: "500",
     
   },
   purchaseButton: {
     color: "grey",
     fontSize: 18,
-    fontWeight: "bold",
+    fontWeight: "500",
   },
 };
 
